@@ -1,5 +1,5 @@
 // Funcionalidade 1: Somar dois números
-function somar(a, b) {
+function somar(a, b) 
     return a + b;
 }
 
