@@ -1,5 +1,5 @@
 // Funcionalidade 2: Dobrar um número
-function dobrar(num) 
+function dobrar(num) {
     return num * 2;
 }
 
