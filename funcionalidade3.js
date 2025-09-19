@@ -1,5 +1,5 @@
 // Funcionalidade 3: Multiplicar dois números
-function multiplicar(a, b) 
+function multiplicar(a, b) {
     return a * b;
 }
 
