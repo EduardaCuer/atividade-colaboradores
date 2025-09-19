@@ -1,5 +1,5 @@
 // Funcionalidade 4: Dividir dois números
-function dividir(a, b) 
+function dividir(a, b) {}
     if (b === 0) {
         return "Erro: Divisão por zero não permitida.";
     }
